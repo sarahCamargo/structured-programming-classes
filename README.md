@@ -1,3 +1,3 @@
 # ProgEstruturada
-Exercícios feitos em aulas de Programação Estruturada
+Exercícios feitos em aulas de Programação Estruturada  
 Cada arquivo corresponde a um exercício diferente
